@@ -1,6 +1,6 @@
 # 임남기!
 ### 오늘의 내 상태
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=namgi2386&show_icons=true&theme=radical)
 
 ## 기술스택
 ###### (희망사항)
