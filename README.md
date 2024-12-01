@@ -72,8 +72,9 @@
 
 <a href="https://github.com/namgi2386/-Financial-Web-project">
 <p>🚀프로젝트로 이동</p>
+	
 </a>
-
+<img src="https://raw.githubusercontent.com/namgi2386/-Financial-Web-project/master/readmeimage/media/01.gif" style="width:300px"/>
 
 Django & Vue.js를 이용한 REST-API 활용 웹 애플리케이션  
 > 다양한 웹 애플리케이션 기능을 개발하고, Django와 Vue.js를 사용하여 REST API를 구현하는 프로젝트를 진행했습니다.
