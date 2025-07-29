@@ -2,24 +2,15 @@
 
 # Im Namgi - Web Developer
 
+## 🎈 Portfolio/Blog
+
 <div align=center>
-  <table>
-    <tr>
-      <td align=center>
-        <a href="https://imnammm.me">
-          <img src='image/button-portfolio-black.png' width='150'/>
-        </a>
-        <h3 style="margin-top: 0px; margin-bottom: 0px;">here's Portfolio</h3>
-      </td>
-      <td width=50></td>
-      <td align=center >
-        <a href="https://velog.io/@happynj2697/posts">
-          <img src='image/button-blog-black.png' width='150'/>
-        </a>
-        <h3 style="margin-top: 0px; margin-bottom: 0px;">here's Blog</h3>
-      </td>
-    </tr>
-  </table>
+  <h3>here's Portfolio</h3>
+  <a href="https://imnammm.me">
+  <img src='image/button-portfolio-black.png' width='150'/>
+  </a>
+  <h3>here's Blog</h3>
+  <a href="https://velog.io/@happynj2697/posts"><img src='image/button-blog-black.png' width='150'/></a>
 </div>
 
 
