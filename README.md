@@ -31,7 +31,7 @@
 ## 💻 기술 스택
 <div align=center>
   <div align=center>
-    <h3>⭐메인 스택⭐</h3>
+    <h3>⭐메인스택⭐</h3>
   </div>
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"> 
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
