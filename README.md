@@ -2,6 +2,14 @@
 
 # Im Namgi - Web Developer
 
+
+<div align="center">
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=happynj2697)](https://solved.ac/happynj2697/)
+<img src="https://github-readme-stats.vercel.app/api?username=namgi2386&&show_icons=true&theme=react&line_height=27"/>
+
+</div>
+
 ## 🎈 Portfolio/Blog
 
 <div align=center>
@@ -95,15 +103,6 @@
 <br>
 <br>
 <br>
-
-
-<details>
-<summary>📚 <b>Github Stats: </b></summary>
-<br>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=namgi2386&&show_icons=true&theme=react&line_height=27"/>
-</p>
-</details>
 
 
 
