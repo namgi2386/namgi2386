@@ -82,6 +82,7 @@ AI/ML 학습: 머신러닝/딥러닝 개념, 데이터 분석 및 활용
 | 기술 | 설명 |
 |------|------|
 | ![Jest](https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white) | Jest와 React Testing Library를 활용한 컴포넌트 단위 테스트 경험 |
+| ![Vitest](https://img.shields.io/badge/vitest-00ff74?style=for-the-badge&logo=vitest&logoColor=white) | vitest를 활용한 컴포넌트 단위 테스트 경험 |
 | ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) | 디자인 시스템 기반 UI/UX 개발 |
 
 ### ⭐ Tools & Collaboration
