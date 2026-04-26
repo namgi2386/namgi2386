@@ -22,6 +22,14 @@
 - **2024.06.18** 🪪 정보처리기사
 - **2024.04.05** 🪪 SQLD (SQL Developer)
 
+## Open Source Contributions
+
+> dnd-kit ([PR #1996](https://github.com/clauderic/dnd-kit/pull/2020))
+
+Contributed a bug fix to dnd-kit, a widely-used drag-and-drop library for React.
+Diagnosed a DragOverlay flicker caused by a race condition between CSS rule removal
+and the browser paint cycle, and resolved it by deferring state finalization until after paint.
+
 ## STACK
 
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
