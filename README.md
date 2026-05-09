@@ -30,6 +30,12 @@ Contributed a bug fix to dnd-kit, a widely-used drag-and-drop library for React.
 Diagnosed a DragOverlay flicker caused by a race condition between CSS rule removal
 and the browser paint cycle, and resolved it by deferring state finalization until after paint.
 
+> TanStack Query ([PR #10694](https://github.com/TanStack/query/pull/10694))([PR #10442](https://github.com/TanStack/query/pull/10442))
+
+Investigated and submitted a PR diagnosing a TypeScript declaration misconfiguration
+in the Solid.js adapter. The analysis was adopted by a maintainer who completed
+the fix in the official release.
+
 ## STACK
 
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
